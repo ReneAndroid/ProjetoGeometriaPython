@@ -1,0 +1,5 @@
+Instalar o pacote pyinstaller (pip install pyinstaller)
+
+Para criar o .exe, navegue pelo terminal até a pasta com o código a ser compilado e digite:
+
+pyinstaller --onefile script.py
